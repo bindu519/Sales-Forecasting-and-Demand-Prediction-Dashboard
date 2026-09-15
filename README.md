@@ -1,1 +1,1 @@
-# Sales-Forecasting-and-Demand-Prediction-Dashboard
+# Sales-Forecasting-and-Demand-Prediction
